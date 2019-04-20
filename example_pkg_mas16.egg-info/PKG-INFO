@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: example-pkg-mas16
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/mas16/packaging_tutorial
+Author: matt stetz
+Author-email: mattstetzdata@gmail.com
+License: UNKNOWN
+Description: # Packaging Python Tutorial
+        
+        ## Introduction
+        
+        I am working through the packaging python tutorial so I can package some of my 
+        Python scripts.
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
